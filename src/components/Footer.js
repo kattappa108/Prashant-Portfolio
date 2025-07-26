@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className='footer'>
       <div className='footer_left'>
-        <Typography className='footer_name' > Designed & Developed by <a href='https://github.com/kattappa108'>Prashant </a></Typography>
+        <Typography className='footer_name' > Designed & Developed by <a href='https://www.linkedin.com/in/prashant10802/'>Prashant </a></Typography>
       </div>
       <div className='footer_right'>
         <Typography className='footer_copyright' >Clone idea from <a href='https://themeforest.net/user/tavonline'>Travonline. </a></Typography>
