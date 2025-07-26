@@ -33,7 +33,7 @@ const Profile = () => {
                 <Typography className="title">{resumeData.title}</Typography>
             </div>
             <figure className="profile_image">
-                <img src={require("../assetss/images/shubhangis.jpg")} alt="" />
+                <img src={require("../assetss/images/Profile Pic.png")} alt="" />
             </figure>
             <div className="profile_info">
                 <CustomTimeline icon={<PersonOutlineOutlinedIcon />}>
@@ -50,7 +50,7 @@ const Profile = () => {
                     ))}
                 </CustomTimeline>
                 <div className="btn_container">
-                    <a href="/Shubhangi-Resume.pdf" download="Shubhangi-Resume.pdf">
+                    <a href="/Prashant Resume.pdf" download="Prashant Resume.pdf">
                         <CustomButton text={"Download Resume"} icon={<GetAppIcon />} />
                     </a>
                 </div>
